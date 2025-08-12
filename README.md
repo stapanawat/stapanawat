@@ -59,7 +59,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=your-github-username&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
