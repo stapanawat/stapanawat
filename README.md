@@ -12,6 +12,11 @@ I build web applications, business systems, and interactive web experiences, con
 - I also explore cinematic web experiences with animation, Canvas, and Three.js.
 - I use AI-assisted development tools to support coding, research, debugging, and documentation.
 
+## Freelance Experience
+
+**Freelance Developer · Fastwork**  
+6 months of freelance development experience on Fastwork.
+
 ## Core Tech Stack
 
 | Area | Technologies |
