@@ -10,7 +10,7 @@ I build web applications, business systems, and interactive web experiences, con
 - Work includes recruitment and employee management, restaurant POS, dashboards, and LINE integrations.
 - I develop with React / Next.js, Vue / Nuxt, Laravel, and Node.js / Express.
 - I also explore cinematic web experiences with animation, Canvas, and Three.js.
-- I use AI-assisted development tools to support coding, research, debugging, and documentation.
+- I use LLMs, Cowork, coding agents, and terminal / CLI tools with structured Markdown planning workflows to support development from requirements through verification.
 
 ## Freelance Experience
 
@@ -44,12 +44,35 @@ Technologies used across my projects include:
 - **Deployment & Workflow:** Vercel, Render, GitHub Pages, Docker, and CI/CD workflows.
 - **System Design:** Requirements analysis, database design, ER diagrams, DFDs, and technical documentation.
 
+## AI & Agent-assisted Development
+
+I use LLMs and AI agents throughout development, from understanding requirements and planning tasks to implementation, debugging, review, and documentation.
+
+| Area | How I Use AI |
+| --- | --- |
+| LLMs | Use conversational models for technical research, requirements analysis, solution exploration, code assistance, and documentation; provide project context and refine prompts across iterations. |
+| Cowork | Use Claude Cowork for collaborative tasks involving files, research, document preparation, and structured work. |
+| Coding Agents | Work with Codex, Claude Code, Antigravity, and Gemini-based agents to navigate repositories, implement features, refactor code, investigate bugs, and support verification. |
+| Planning & Context Files | Organize agent workflows with Markdown files such as `PLAN.md` / `plan.md`, `AGENTS.md` / `agent.md`, `CLAUDE.md`, and project-specific files such as `CRITICAL.md`; document requirements, task stages, coding conventions, constraints, and review criteria. |
+| AI Frameworks & Workflows | Work with AI frameworks and workflow structures to organize prompts, context, tool use, and task execution. |
+| Terminal / CLI | Use AI tools in terminal and CLI workflows, including Codex CLI, Claude Code, and Gemini CLI, alongside repository navigation, development commands, logs, and Git. |
+| AI API Integration | Connect AI capabilities to applications through APIs; project experience includes Gemini integration in a Node.js backend. |
+| Review & Iteration | Review proposed changes, run relevant checks, inspect results, and iterate on issues before delivery. |
+
+### My AI Development Workflow
+
+1. **Understand:** Gather requirements, inspect the existing project, and define the intended result.
+2. **Plan:** Break work into tasks and record the approach, constraints, and acceptance criteria in Markdown.
+3. **Configure Context:** Give the agent relevant files, project instructions, and coding conventions.
+4. **Build:** Use coding agents and CLI tools to implement features in manageable steps.
+5. **Verify:** Review changes and check functionality, tests, and build results as appropriate.
+6. **Improve & Document:** Fix issues, update documentation, and record progress for the next session.
+
 ## Other Skills & Interests
 
 - **Languages & Frameworks:** Python, C#, C++, Dart, Flutter, Django, and GDScript.
 - **Design & Game Development:** Figma, UI/UX prototyping, and Godot.
 - **Automation:** Google Apps Script and Pipedream.
-- **AI-assisted Development:** Codex, Claude, Gemini, and Antigravity.
 - **Creative AI:** AI image and video workflows, Stable Diffusion, and Udio.
 
 ## Selected Public Projects
