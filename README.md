@@ -75,16 +75,15 @@ I use LLMs and AI agents throughout development, from understanding requirements
 - **Automation:** Google Apps Script and Pipedream.
 - **Creative AI:** AI image and video workflows, Stable Diffusion, and Udio.
 
-## Selected Public Projects
+## Selected Deployed Projects
 
-| Project | Highlights | Stack |
-| --- | --- | --- |
-| [LINE Recruitment & Employee Management](https://github.com/stapanawat/interview_new) | Recruitment and employee management with LINE integration and document tools | React, Express, LIFF, jsPDF, SheetJS |
-| [Tours](https://github.com/stapanawat/tours) | Laravel API and Nuxt frontend with localization and development quality workflows | Laravel, Nuxt, Vue, Pinia, Tailwind CSS |
-| [Nexus](https://github.com/stapanawat/Nexus) | Full-stack web project with dashboards, animation, and 3D components | Laravel, Next.js, TypeScript, Three.js, GSAP |
-| [Magic Forest](https://github.com/stapanawat/magicforest) | Scroll-driven storytelling, an interactive 3D crystal, ambient audio, and accessibility support | TypeScript, Three.js, Canvas, Web Audio, Playwright |
-| [Salimeow](https://github.com/stapanawat/Salimeow) | React web project with routing, 3D dependencies, and asset preparation tools | React, TypeScript, Three.js, Vite |
-| [SmartFactory](https://github.com/stapanawat/SmartFactory) | React dashboard project with data visualization | React, Recharts, Tailwind CSS |
+| Project | Highlights | Stack | Live Demo | Source |
+| --- | --- | --- | --- | --- |
+| LINE Recruitment & Employee Management | Recruitment and employee management with LINE integration and document tools | React, Express, LIFF, jsPDF, SheetJS | [Open Website](https://interview-new-henna.vercel.app) | [GitHub](https://github.com/stapanawat/interview_new) |
+| Magic Forest | Scroll-driven storytelling, an interactive 3D crystal, ambient audio, and accessibility support | TypeScript, Three.js, Canvas, Web Audio, Playwright | [Open Website](https://magicforest-sigma.vercel.app) | [GitHub](https://github.com/stapanawat/magicforest) |
+| SmartFactory | React dashboard project with data visualization | React, Recharts, Tailwind CSS | [Open Website](https://smart-factory-ten.vercel.app) | [GitHub](https://github.com/stapanawat/SmartFactory) |
+| My Resume | Personal resume website with animation | React, Framer Motion, Tailwind CSS, Vite | [Open Website](https://my-resume-jet-theta.vercel.app) | [GitHub](https://github.com/stapanawat/My-resume) |
+| Typing Game Demo | React typing game demo | React, Vite | [Open Website](https://demo-typing-game-mu.vercel.app) | [GitHub](https://github.com/stapanawat/demo-typing-game) |
 
 Earlier work includes the **Minato Shabu Information System** for restaurant orders, inventory, and promotions using PHP, MySQL, and Bootstrap, and [Whispers of a Fading Star](https://sudroa001.itch.io/whispers-of-a-fading-star1), a visual novel made with Godot.
 
