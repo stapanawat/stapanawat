@@ -51,7 +51,7 @@ I use LLMs and AI agents throughout development, from understanding requirements
 | Area | How I Use AI |
 | --- | --- |
 | LLMs | Use conversational models for technical research, requirements analysis, solution exploration, code assistance, and documentation; provide project context and refine prompts across iterations. |
-| Cowork | Use Claude Cowork for collaborative tasks involving files, research, document preparation, and structured work. |
+| Cowork | Use Claude Cowork and Gpt work for collaborative tasks involving files, research, document preparation, and structured work. |
 | Coding Agents | Work with Codex, Claude Code, Antigravity, and Gemini-based agents to navigate repositories, implement features, refactor code, investigate bugs, and support verification. |
 | Planning & Context Files | Organize agent workflows with Markdown files such as `PLAN.md` / `plan.md`, `AGENTS.md` / `agent.md`, `CLAUDE.md`, and project-specific files such as `CRITICAL.md`; document requirements, task stages, coding conventions, constraints, and review criteria. |
 | AI Frameworks & Workflows | Work with AI frameworks and workflow structures to organize prompts, context, tool use, and task execution. |
